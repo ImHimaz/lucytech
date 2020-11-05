@@ -20,18 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8d328f9-d511-4a4d-a21c-f93ac6f886e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-admin/js/customize-controls.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/customize-controls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/css/editor-style-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/css/editor-style-block.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/js/custom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/js/custom/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/components.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/components.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/vendor/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/vendor/moment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/vendor/react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/vendor/react-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/assets.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/assets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_components.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/essentials/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/essentials/_common.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +81,7 @@
       <workItem from="1603511969241" duration="12557000" />
       <workItem from="1603630875999" duration="34000" />
       <workItem from="1604413515037" duration="6762000" />
-      <workItem from="1604501661069" duration="45076000" />
+      <workItem from="1604501661069" duration="53039000" />
     </task>
     <servers />
   </component>

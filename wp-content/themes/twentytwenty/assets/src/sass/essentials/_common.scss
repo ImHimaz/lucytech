@@ -2,6 +2,11 @@ a {
   text-decoration: none !important;
 }
 
+.entry-content,
+body {
+  line-height: 0 !important;
+}
+
 article > header.entry-header {
   display: none;
 }
