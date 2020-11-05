@@ -1,0 +1,132 @@
+.our-benefits {
+  position: relative;
+  width: 100% !important;
+
+  &:after {
+    position: absolute;
+    content: '';
+    left: calc((100vw - 1170px) / 2);
+    top: -20px;
+    width: 25px;
+    height: 45px;
+    transform: skew(-20deg);
+    background: $pearly_star;
+  }
+
+  > .wp-block-group__inner-container {
+    @extend .container;
+
+    > .wp-block-image {
+      margin: 0 !important;
+
+      img {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        height: 100%;
+        border-top-right-radius: 200px;
+        width: calc((100vw + 800px) / 2);
+      }
+    }
+
+    .wp-bootstrap-blocks-row {
+      h2 {
+        margin: 0 0 25px;
+        color: $white;
+        font-weight: 600;
+      }
+
+      p {
+        font-family: $font-family-secondary !important;
+        font-size: 16px;
+        color: $white;
+        opacity: 0.5;
+      }
+
+      h5 {
+        display: inline-block;
+        vertical-align: top;
+        margin: 0 0 39px 0;
+        flex: 0 0 67%;
+        max-width: 67% !important;
+        width: auto !important;
+        color: rgba(25, 24, 24, 0.98);
+        font-size: 22px;
+        font-weight: 600;
+        letter-spacing: -0.46px;
+      }
+
+      .col-md-6 {
+        margin-top: 40px;
+
+        .wp-block-group {
+          display: flex;
+          flex-wrap: wrap;
+          padding: 40px;
+          background-color: $white;
+          border-bottom-left-radius: 60px;
+          border-top-right-radius: 60px;
+          box-shadow: 0 10px 40px 0 rgba(56, 2, 4, 0.1);
+
+          figure {
+            display: inline-block;
+            vertical-align: top;
+            margin: 0 !important;
+            width: 60px !important;
+            height: 60px;
+            background-color: $smoke_white;
+            border-radius: 50%;
+
+            img {
+              height: 100%;
+              width: 100%;
+              object-fit: none;
+            }
+          }
+
+          ul {
+            @extend %list;
+          }
+        }
+      }
+    }
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .our-benefits {
+    padding: 80px 0;
+
+    .row {
+      margin-bottom: -200px;
+    }
+  }
+}
+
+@include media-breakpoint-only(lg) {
+  .our-benefits {
+    &:after {
+      left: calc((100vw - 930px) / 2);
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .our-benefits {
+    padding: 50px 0;
+
+    &:after {
+      left: calc((100vw - 690px) / 2);
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .our-benefits {
+    &:after {
+      left: calc((100vw - 85%) / 2);
+    }
+  }
+}

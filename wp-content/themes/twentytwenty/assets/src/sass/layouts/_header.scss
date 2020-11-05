@@ -1,0 +1,63 @@
+.main-header {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999 !important;
+  background-color: $transparent !important;
+  transition: all 0.3s ease-in-out;
+
+  .desktop-header {
+    padding: 20px 0;
+
+    .header-logo {
+      .site-logo {
+        line-height: 0;
+      }
+
+      a {
+        width: 160px;
+        height: 56px;
+
+        img {
+          height: 100%;
+          width: 100%;
+        }
+      }
+    }
+
+    .header-navigation-wrapper {
+      height: 100%;
+
+      nav {
+        ul {
+          li {
+            display: flex;
+            align-items: center;
+            margin: 0 20px;
+
+            a {
+              color: $white;
+            }
+          }
+
+          .contact-us-link {
+            margin-right: 0;
+            margin-left: 50px;
+
+            > a {
+              @extend .wp-block-button__link;
+            }
+          }
+        }
+      }
+    }
+
+
+  }
+
+}
+
+.main-header.page-scroll {
+  background-color: $nero !important;
+}

@@ -1,0 +1,21 @@
+.wp-block-button__link {
+  padding: 12px 30px;
+  height: 46px;
+  font-size: 16px;
+  background-color: $pearly_star;
+  font-family: $font-family-secondary;
+  font-weight: 700;
+  text-transform: capitalize;
+  border: 2px solid $transparent;
+  border-radius: 0 10px 0 0;
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease-in-out;
+}
+
+@include media-breakpoint-up(xl) {
+  .wp-block-button__link:hover {
+    border-color: $pearly_star;
+    background-color: $transparent;
+    color: $pearly_star;
+  }
+}

@@ -1,0 +1,116 @@
+.how-it-works {
+  position: relative;
+  padding-top: 60px;
+  margin-bottom: 60px !important;
+  width: 100% !important;
+
+  .wp-block-group__inner-container {
+    @extend .container;
+    position: relative;
+    padding-bottom: 30px;
+
+    .bg-column {
+      position: static;
+
+      figure {
+        margin: 0 !important;
+
+        img {
+          position: absolute;
+          width: 100%;
+          bottom: 0;
+          left: 0;
+          z-index: -1;
+        }
+      }
+    }
+
+    .header-col {
+      h2 {
+        letter-spacing: -0.5px;
+        margin: 0 0 35px;
+      }
+
+      p {
+        font-size: 16px;
+        color: $suvagrey;
+        margin-bottom: 30px;
+      }
+    }
+
+    .blurb-row {
+      h4 {
+        display: inline-block;
+        vertical-align: top;
+        font-family: $font-family-base;
+        font-size: 18px;
+        font-weight: 700;
+        color: $pearly_star;
+        text-transform: uppercase;
+      }
+
+      figure {
+        display: inline-block;
+        margin: 0 15px 0 0 !important;
+        max-width: 51px;
+        vertical-align: top;
+      }
+
+      .wp-block-coblocks-features {
+        margin-bottom: 40px;
+        padding: 0 25px;
+      }
+    }
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .how-it-works {
+    padding: 109px 0 0;
+
+    .wp-block-group__inner-container {
+      padding-bottom: 70px;
+
+      .wp-block-coblocks-feature__inner {
+        padding-right: 50px;
+        padding-left: 20px;
+      }
+    }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .how-it-works {
+    .blurb-row {
+      padding-top: 40px;
+
+      > div {
+        &:nth-of-type(2n) {
+          margin-top: 100px;
+        }
+      }
+
+      h4 {
+        width: 55%;
+      }
+
+      figure {
+        width: 20%;
+
+        img {
+          margin-left: 0;
+          width: 100%;
+        }
+      }
+
+      .wp-block-coblocks-feature__inner {
+        text-align: left;
+      }
+
+      .wp-block-coblocks-features {
+        margin-bottom: 0 !important;
+        padding: 0 !important;
+      }
+    }
+  }
+}

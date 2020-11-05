@@ -842,7 +842,7 @@
 	};
 
 	/**
-	 * Get current timestamp adjusted for server clock time.
+	 * Get current timestamp adjusted for server custom time.
 	 *
 	 * Same functionality as the `current_time( 'mysql', false )` function in PHP.
 	 *

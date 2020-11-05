@@ -19,7 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8d328f9-d511-4a4d-a21c-f93ac6f886e4" name="Default Changelist" comment="" />
+    <list default="true" id="a8d328f9-d511-4a4d-a21c-f93ac6f886e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/customize-controls.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/customize-controls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/css/editor-style-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/css/editor-style-block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/js/custom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/js/custom/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/components.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/components.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/vendor/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/vendor/moment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/vendor/react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/vendor/react-dom.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,16 +48,31 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1jHrj0iSTD2HefzRcsL2QsVVscb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anc" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/js" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentytwenty" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentytwentychild" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +83,11 @@
       <option name="presentableId" value="Default" />
       <updated>1603471989875</updated>
       <workItem from="1603471991074" duration="775000" />
-      <workItem from="1603473438132" duration="961000" />
+      <workItem from="1603473438132" duration="2686000" />
+      <workItem from="1603511969241" duration="12557000" />
+      <workItem from="1603630875999" duration="34000" />
+      <workItem from="1604413515037" duration="6762000" />
+      <workItem from="1604501661069" duration="45076000" />
     </task>
     <servers />
   </component>
@@ -72,11 +104,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603473435038">
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604511871600">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1603473435038" />
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604511871600" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604511593437">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604511593437" />
+    <state x="687" y="292" width="862" height="522" key="find.popup" timestamp="1604508436129">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="687" y="292" width="862" height="522" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1604508436129" />
   </component>
 </project>

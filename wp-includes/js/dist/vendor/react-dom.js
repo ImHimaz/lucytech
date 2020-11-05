@@ -21423,7 +21423,7 @@ var spawnedWorkDuringRender = null;
 
 // Expiration times are computed by adding to the current time (the start
 // time). However, if two updates are scheduled within the same event, we
-// should treat their start times as simultaneous, even if the actual clock
+// should treat their start times as simultaneous, even if the actual custom
 // time has advanced between the first and second call.
 
 // In other words, because expiration times determine how updates are batched,

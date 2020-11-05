@@ -1,0 +1,12 @@
+/*
+ Theme Name:   twentytwenty Child Theme
+ Theme URI:    http://lucytech.se
+ Description:  A twentytwenty child theme
+ Author:       Lucytech
+ Author URI:   http://lucytech.se
+ Template:     twentytwenty
+ Version:      1.0.0
+ Text Domain: twentytwentychildtheme
+*/
+
+@import url("../twentytwenty/style.css");

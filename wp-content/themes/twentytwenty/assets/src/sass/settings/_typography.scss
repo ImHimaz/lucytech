@@ -1,0 +1,26 @@
+h1 {
+  font-family: $font-family-secondary;
+  font-size: 54px;
+  line-height: 66px;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: $font-family-secondary !important;
+  font-size: 38px;
+  line-height: 48px;
+  font-weight: 600;
+}
+
+p {
+  font-family: $font-family-base !important;
+  font-size: $large-para-font;
+  line-height: 28px;
+}
+
+a {
+  display: inline-block !important;
+  font-family: $font-family-secondary;
+  line-height: 20px !important;
+  font-size: $para-font;
+}
