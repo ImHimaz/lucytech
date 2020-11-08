@@ -78,7 +78,7 @@
 
 @include media-breakpoint-between(md, lg) {
   .hero-banner {
-    padding: 0 0 40px;
+    padding: 61px 0 40px;
 
     .image-col {
       padding-left: 33px;
@@ -92,7 +92,7 @@
 
 @include media-breakpoint-down(sm) {
   .hero-banner {
-    padding: 0 0 40px;
+    padding: 61px 0 40px;
 
     .text-col {
       margin-bottom: 20px;

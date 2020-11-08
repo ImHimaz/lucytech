@@ -11,8 +11,16 @@ article > header.entry-header {
   display: none;
 }
 
+.post-meta-wrapper {
+  display: none;
+}
+
 .post-inner {
   padding: 0;
+}
+
+#site-content {
+  overflow: visible;
 }
 
 .wp-block-group {
@@ -35,6 +43,12 @@ ul {
 @include media-breakpoint-up(xl) {
   .main-header {
     height: 96px;
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .main-header {
+    height: 62px;
   }
 }
 

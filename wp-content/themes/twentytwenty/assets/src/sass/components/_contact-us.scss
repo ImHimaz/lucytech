@@ -23,6 +23,17 @@
       }
     }
 
+    &:after {
+      position: absolute;
+      content: '';
+      left: 180px;
+      bottom: -24px;
+      width: 25px;
+      height: 50px;
+      transform: skew(-20deg);
+      background: #E9B431;
+    }
+
     .row {
       figure {
         margin: 0 auto 15px !important;

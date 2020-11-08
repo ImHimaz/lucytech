@@ -78,6 +78,30 @@ wp_body_open();
             </div>
         </div>
     </div>
+    <div class="mobile-header d-xl-none">
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <div class="header-logo">
+                        <?php
+                        twentytwenty_site_logo();
+                        ?>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+							<span class="toggle-inner">
+								<span class="toggle-icon">
+									<span></span>
+									<span></span>
+									<span></span>
+								</span>
+							</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
 </header><!-- #site-header -->
 
 <?php

@@ -45,25 +45,6 @@
 
 					?>
 
-					<nav class="expanded-menu<?php echo esc_attr( $expanded_nav_classes ); ?>" aria-label="<?php esc_attr_e( 'Expanded', 'twentytwenty' ); ?>" role="navigation">
-
-						<ul class="modal-menu reset-list-style">
-							<?php
-							if ( has_nav_menu( 'expanded' ) ) {
-								wp_nav_menu(
-									array(
-										'container'      => '',
-										'items_wrap'     => '%3$s',
-										'show_toggles'   => true,
-										'theme_location' => 'expanded',
-									)
-								);
-							}
-							?>
-						</ul>
-
-					</nav>
-
 					<?php
 				}
 
@@ -109,37 +90,6 @@
 				?>
 
 			</div><!-- .menu-top -->
-
-			<div class="menu-bottom">
-
-				<?php if ( has_nav_menu( 'social' ) ) { ?>
-
-					<nav aria-label="<?php esc_attr_e( 'Expanded Social links', 'twentytwenty' ); ?>" role="navigation">
-						<ul class="social-menu reset-list-style social-icons fill-children-current-color">
-
-							<?php
-							wp_nav_menu(
-								array(
-									'theme_location'  => 'social',
-									'container'       => '',
-									'container_class' => '',
-									'items_wrap'      => '%3$s',
-									'menu_id'         => '',
-									'menu_class'      => '',
-									'depth'           => 1,
-									'link_before'     => '<span class="screen-reader-text">',
-									'link_after'      => '</span>',
-									'fallback_cb'     => '',
-								)
-							);
-							?>
-
-						</ul>
-					</nav><!-- .social-menu -->
-
-				<?php } ?>
-
-			</div><!-- .menu-bottom -->
 
 		</div><!-- .menu-wrapper -->
 
