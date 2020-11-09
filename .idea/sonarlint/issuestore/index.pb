@@ -84,3 +84,7 @@ v
 Fwp-content/themes/twentytwenty/assets/src/sass/essentials/_common.scss,8/d/8da99780a8cbe219015ae17147c2a0df10685e1e
 z
 Jwp-content/themes/twentytwenty/assets/src/sass/components/_contact-us.scss,8/d/8dbea57369f460e931d450a6b57e0110e3eb66a0
+l
+<wp-content/themes/twentytwenty/template-parts/modal-menu.php,9/a/9aebe44c2e0b98840f0d1fed9b198de05004ae6c
+s
+Cwp-content/themes/twentytwenty/assets/src/sass/layouts/_footer.scss,1/5/1544424633835909715015d0039ab684ba9b2c06

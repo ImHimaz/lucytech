@@ -8059,6 +8059,8 @@ footer {
 @media (max-width: 767.98px) {
   .our-team > .wp-block-group__inner-container > .wp-bootstrap-blocks-row .large-block {
     padding: 50px 15px 30px !important; }
+    .our-team > .wp-block-group__inner-container > .wp-bootstrap-blocks-row .large-block:after {
+      right: 0; }
     .our-team > .wp-block-group__inner-container > .wp-bootstrap-blocks-row .large-block .wp-block-group__inner-container {
       display: flex;
       flex-wrap: wrap;

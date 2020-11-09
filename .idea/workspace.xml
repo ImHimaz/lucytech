@@ -20,107 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8d328f9-d511-4a4d-a21c-f93ac6f886e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/assets.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/assets.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/js/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/build/js/main.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/js/custom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/js/custom/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_benefits-with-srilanka.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_benefits-with-srilanka.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_contact-us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_contact-us.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_hero-banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_hero-banner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_our-benefits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_our-benefits.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_our-team.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/components/_our-team.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/essentials/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/essentials/_common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/layouts/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/layouts/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/layouts/_layouts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/layouts/_layouts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/settings/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/src/sass/settings/_colors.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/modal-menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/modal-menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentychild/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentychild/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentychild/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentychild/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1024x593.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1024x593.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1200x694.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1200x694.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1536x889.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1536x889.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1600x926.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1600x926.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1980x1146.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-1980x1146.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-2048x1185.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-2048x1185.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-2200x1273.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-2200x1273.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-300x174.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-300x174.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-768x444.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x-768x444.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-BG@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-Side-Image-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-Side-Image-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-Side-Image-300x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-Side-Image-300x300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-Side-Image.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Banner-Side-Image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-1024x398.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-1024x398.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-1200x467.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-1200x467.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-300x117.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-300x117.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-768x299.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1-768x299.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-300x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap-300x300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Bitmap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image-1024x282.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image-1024x282.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image-300x83.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image-300x83.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image-768x211.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image-768x211.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Conatct-detail-section-BG-image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Group-2-Copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Group-2-Copy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Group-5-Copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Group-5-Copy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Group-7-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Group-7-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Group-7.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Group-7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-1-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-1-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-1-300x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-1-300x300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-2-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-2-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-2-300x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-2-300x300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-300x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177-300x300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Image-177.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1024x464.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1024x464.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1200x544.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1200x544.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1536x696.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1536x696.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1600x725.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1600x725.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1980x898.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-1980x898.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-2048x929.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-2048x929.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-2200x997.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-2200x997.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-300x136.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-300x136.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-768x348.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x-768x348.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Benefits-Section-BG-Image@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Skills-Section-Side-Image-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Skills-Section-Side-Image-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Skills-Section-Side-Image-245x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Skills-Section-Side-Image-245x300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Skills-Section-Side-Image.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/Our-Skills-Section-Side-Image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/favicon-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/favicon-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/favicon-150x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/favicon-150x57.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks-1024x223.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks-1024x223.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks-300x65.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks-300x65.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks-768x167.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks-768x167.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/howitworks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-briefcase-1-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-briefcase-1-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-briefcase-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-briefcase-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-letterbox-1-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-letterbox-1-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-letterbox-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-letterbox-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-letterbox-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-letterbox-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-letterbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-letterbox.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-location-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-location-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-location.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-location.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-meeting-copy-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-meeting-copy-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-meeting-room-copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-meeting-room-copy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-shake-phone-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-shake-phone-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-shake-phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-shake-phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-woman-with-a-suitcase-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-woman-with-a-suitcase-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-woman-with-a-suitcase.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/icons8-woman-with-a-suitcase.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/sitelogo2x-150x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/sitelogo2x-150x114.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/sitelogo2x-300x107.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/sitelogo2x-300x107.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/11/sitelogo2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/11/sitelogo2x.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -177,7 +82,9 @@
       <workItem from="1603630875999" duration="34000" />
       <workItem from="1604413515037" duration="6762000" />
       <workItem from="1604501661069" duration="53886000" />
-      <workItem from="1604773242371" duration="20395000" />
+      <workItem from="1604773242371" duration="21038000" />
+      <workItem from="1604922570046" duration="774000" />
+      <workItem from="1604940203609" duration="999000" />
     </task>
     <servers />
   </component>
@@ -201,10 +108,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604511871600" />
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604821343343">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604843210731">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604821343343" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604843210731" />
     <state x="687" y="292" width="862" height="522" key="find.popup" timestamp="1604822547453">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
