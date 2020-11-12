@@ -88,3 +88,13 @@ l
 <wp-content/themes/twentytwenty/template-parts/modal-menu.php,9/a/9aebe44c2e0b98840f0d1fed9b198de05004ae6c
 s
 Cwp-content/themes/twentytwenty/assets/src/sass/layouts/_footer.scss,1/5/1544424633835909715015d0039ab684ba9b2c06
+f
+6wp-content/themes/twentytwenty/assets/build/assets.php,d/8/d840d327d70163ca4ddd0a61864a572adfa228cd
+d
+4wp-content/themes/twentytwentychild/footer-blank.php,5/a/5a8458ec853a1f2fb324c7d276f98f6706e8cac6
+d
+4wp-content/themes/twentytwentychild/header-blank.php,4/6/469b030ac4fd876ceed30c0fc3780930dfa2a2c4
+{
+Kwp-content/themes/twentytwenty/assets/src/sass/components/_coming-soon.scss,9/8/98657871cd67aeaaedb67a31fd3f92a14af193b2
+c
+3wp-content/themes/twentytwentychild/coming-soon.php,2/2/229ae72d41acc643f39291b23d9f58ecf0a450fa

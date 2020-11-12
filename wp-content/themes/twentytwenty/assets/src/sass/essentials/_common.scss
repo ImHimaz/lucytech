@@ -44,11 +44,34 @@ ul {
   .main-header {
     height: 96px;
   }
+
+  main {
+    min-height: calc(100vh - 270px);
+  }
+
 }
 
 @include media-breakpoint-down(lg) {
   .main-header {
     height: 62px;
+  }
+
+  main {
+    min-height: calc(100vh - 270px);
+  }
+}
+
+.post-password-form {
+  margin-top: 150px !important;
+  text-align: center;
+
+  input[type="submit"] {
+    @extend .wp-block-button__link;
+    text-decoration: none;
+  }
+
+  input[type="password"] {
+    padding: 3px 2px;
   }
 }
 
