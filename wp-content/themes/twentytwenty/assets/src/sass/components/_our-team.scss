@@ -335,14 +335,25 @@
 
 @include media-breakpoint-down(sm) {
   .our-team {
+    padding: 25px 0 !important;
+
     > .wp-block-group__inner-container {
 
       > .wp-bootstrap-blocks-row {
         .large-block {
-          padding: 50px 15px 30px !important;
+          padding: 30px 15px 15px !important;
 
           &:after {
             right: 0;
+          }
+
+          h5 {
+            font-size: 26px;
+            margin-bottom: 10px;
+          }
+
+          h6 {
+            margin-bottom: 10px;
           }
 
           .wp-block-group__inner-container {
@@ -364,7 +375,16 @@
         }
 
         .small-block {
-          padding: 50px 15px !important;
+          padding: 20px 15px !important;
+
+          h5 {
+            font-size: 26px;
+            margin-bottom: 10px;
+          }
+
+          h6 {
+            margin-bottom: 10px;
+          }
 
           .wp-block-group__inner-container {
             display: flex;

@@ -24,3 +24,19 @@ a {
   line-height: 20px !important;
   font-size: $para-font;
 }
+
+@include media-breakpoint-down(sm) {
+  h1 {
+    font-size: 45px;
+    line-height: 50px;
+  }
+
+  h2 {
+    font-size: 32px;
+    line-height: 40px
+  }
+
+  p {
+    font-size: $para-font;
+  }
+}

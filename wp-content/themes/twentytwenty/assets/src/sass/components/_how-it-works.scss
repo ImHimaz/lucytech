@@ -114,3 +114,18 @@
     }
   }
 }
+
+@include media-breakpoint-down(sm) {
+  .how-it-works {
+    padding-top: 30px;
+    margin-bottom: 30px !important;
+
+    h2 {
+      margin-bottom: 20px !important;
+    }
+
+    .blurb-row .wp-block-coblocks-features {
+      margin-bottom: 25px !important;
+    }
+  }
+}

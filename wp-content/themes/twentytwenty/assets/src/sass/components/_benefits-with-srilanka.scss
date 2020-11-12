@@ -1,6 +1,6 @@
 .benefits-with-srilanka {
   position: relative;
-  padding-top: 100px;
+  padding-top: 80px;
   width: 100% !important;
 
   > .wp-block-group__inner-container {
@@ -24,11 +24,15 @@
       margin: 0;
     }
 
+    p {
+      font-size: 16px;
+    }
+
     .row {
       .wp-block-group {
         display: flex;
         flex-wrap: wrap;
-        padding: 40px;
+        padding: 30px 40px;
         height: 100%;
         background-color: $white;
         border-bottom-left-radius: 60px;
@@ -64,12 +68,12 @@
     .row {
 
       h2 {
-        margin-bottom: 300px !important;
+        margin-bottom: 250px !important;
         width: 45%;
       }
 
       .col-md-4 {
-        margin-bottom: -133px;
+        margin-bottom: -180px;
       }
     }
   }
@@ -77,16 +81,29 @@
 
 @include media-breakpoint-down(md) {
   .benefits-with-srilanka {
+
+    > .wp-block-group__inner-container > .wp-block-image img {
+      height: 45%;
+    }
     .row {
 
       h2 {
-        margin-bottom: 50px !important;
+        margin-bottom: 100px !important;
       }
 
       .col-md-4 {
         margin-bottom: 25px;
         width: 75%;
       }
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .benefits-with-srilanka {
+    padding-top: 30px;
+    > .wp-block-group__inner-container > .wp-block-image img {
+      height: 25%;
     }
   }
 }

@@ -129,5 +129,22 @@
     &:after {
       left: calc((100vw - 85%) / 2);
     }
+
+    .col-md-6 {
+      margin-top: 25px !important;
+
+      .wp-block-group {
+        padding: 30px !important;
+
+        h5 {
+          font-size: 20px !important;
+        }
+
+        li {
+          margin-bottom: 10px !important;
+          font-size: 15px !important;
+        }
+      }
+    }
   }
 }
