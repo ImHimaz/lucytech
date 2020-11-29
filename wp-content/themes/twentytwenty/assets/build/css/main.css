@@ -7424,14 +7424,14 @@ ul {
   .post-password-form input[type="password"] {
     padding: 3px 2px; }
 
-.our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 .wp-block-group ul li, .image-list .wp-block-group__inner-container ul li {
+.our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 > .wp-block-group ul li, .image-list .wp-block-group__inner-container ul li {
   position: relative;
   margin: 0 0 18px 0;
   padding-left: 30px;
   font-family: "Khula", sans-serif;
   font-size: 16px;
   list-style: none; }
-  .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 .wp-block-group ul li:before, .image-list .wp-block-group__inner-container ul li:before {
+  .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 > .wp-block-group ul li:before, .image-list .wp-block-group__inner-container ul li:before {
     content: '';
     position: absolute;
     left: 0;
@@ -7440,7 +7440,7 @@ ul {
     width: 16px;
     background-color: #DE6268;
     border-radius: 50%; }
-  .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 .wp-block-group ul li:after, .image-list .wp-block-group__inner-container ul li:after {
+  .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 > .wp-block-group ul li:after, .image-list .wp-block-group__inner-container ul li:after {
     content: '';
     position: absolute;
     transform: rotate(45deg);
@@ -7836,7 +7836,7 @@ footer {
   .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row h5 {
     display: inline-block;
     vertical-align: top;
-    margin: 0 0 39px 0;
+    margin: 0;
     flex: 0 0 67%;
     max-width: 67% !important;
     width: auto !important;
@@ -7846,7 +7846,7 @@ footer {
     letter-spacing: -0.46px; }
   .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 {
     margin-top: 40px; }
-    .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 .wp-block-group {
+    .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 > .wp-block-group {
       display: flex;
       flex-wrap: wrap;
       padding: 40px;
@@ -7855,7 +7855,11 @@ footer {
       border-bottom-left-radius: 60px;
       border-top-right-radius: 60px;
       box-shadow: 0 10px 40px 0 rgba(56, 2, 4, 0.1); }
-      .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 .wp-block-group figure {
+      .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 > .wp-block-group .image-wrapper > div {
+        display: flex;
+        align-items: center;
+        margin-bottom: 30px; }
+      .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 > .wp-block-group figure {
         display: inline-block;
         vertical-align: top;
         margin: 0 !important;
@@ -7863,7 +7867,7 @@ footer {
         height: 60px;
         background-color: #FCF3F3;
         border-radius: 50%; }
-        .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 .wp-block-group figure img {
+        .our-benefits > .wp-block-group__inner-container .wp-bootstrap-blocks-row .col-md-6 > .wp-block-group figure img {
           height: 100%;
           width: 100%;
           object-fit: none; }
@@ -7893,11 +7897,11 @@ footer {
     left: calc((100vw - 85%) / 2); }
   .our-benefits .col-md-6 {
     margin-top: 25px !important; }
-    .our-benefits .col-md-6 .wp-block-group {
+    .our-benefits .col-md-6 > .wp-block-group {
       padding: 30px !important; }
-      .our-benefits .col-md-6 .wp-block-group h5 {
+      .our-benefits .col-md-6 > .wp-block-group h5 {
         font-size: 20px !important; }
-      .our-benefits .col-md-6 .wp-block-group li {
+      .our-benefits .col-md-6 > .wp-block-group li {
         margin-bottom: 10px !important;
         font-size: 15px !important; } }
 
@@ -8248,6 +8252,8 @@ footer {
     border-bottom-left-radius: 60px;
     border-top-right-radius: 60px;
     box-shadow: 0 10px 40px 0 rgba(56, 2, 4, 0.1); }
+    .benefits-with-srilanka > .wp-block-group__inner-container .row .wp-block-group__inner-container, .benefits-with-srilanka > .wp-block-group__inner-container .wp-bootstrap-blocks-row .wp-block-group__inner-container {
+      margin: 0; }
     .benefits-with-srilanka > .wp-block-group__inner-container .row .wp-block-group figure, .benefits-with-srilanka > .wp-block-group__inner-container .wp-bootstrap-blocks-row .wp-block-group figure {
       position: relative;
       display: inline-block;
@@ -8285,7 +8291,7 @@ footer {
   .benefits-with-srilanka {
     padding-top: 30px; }
     .benefits-with-srilanka > .wp-block-group__inner-container > .wp-block-image img {
-      height: 25%; } }
+      height: 20%; } }
 
 .contact-us {
   width: 100% !important; }

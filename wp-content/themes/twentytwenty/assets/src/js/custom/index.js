@@ -7,13 +7,23 @@ jQuery(window).on("scroll", function () {
     }
 });
 
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
+// document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+//     anchor.addEventListener('click', function (e) {
+//         e.preventDefault();
+//
+//         document.querySelector(this.getAttribute('href')).scrollIntoView({
+//             block: 'center',
+//             behavior: 'smooth',
+//         });
+//     });
+// });
 
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-            block: 'center',
-            behavior: 'smooth',
-        });
-    });
+jQuery(function ($) {
+    var links = $('.wp-social-link a');
+    var len = links.length;
+
+    for (var i = 0; i < len; i++) {
+        links[i].target = "_blank";
+    }
 });
+
