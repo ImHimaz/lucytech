@@ -2,6 +2,11 @@ a {
   text-decoration: none !important;
 }
 
+html {
+  -webkit-text-size-adjust: none !important;
+  touch-action: manipulation;
+}
+
 .entry-content,
 body {
   line-height: 0 !important;
@@ -106,5 +111,17 @@ ul {
       border-bottom: 2px solid $white;
       border-right: 2px solid $white;
     }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .mobile_view {
+    display: none;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .desktop_view {
+    display: none;
   }
 }

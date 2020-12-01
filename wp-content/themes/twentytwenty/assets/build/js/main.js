@@ -100,17 +100,7 @@ jQuery(window).on("scroll", function () {
     //remove the background property so it comes transparent again (defined in your css)
     jQuery("header.page-scroll").removeClass("page-scroll");
   }
-}); // document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-//     anchor.addEventListener('click', function (e) {
-//         e.preventDefault();
-//
-//         document.querySelector(this.getAttribute('href')).scrollIntoView({
-//             block: 'center',
-//             behavior: 'smooth',
-//         });
-//     });
-// });
-
+});
 jQuery(function ($) {
   var links = $('.wp-social-link a');
   var len = links.length;
@@ -118,6 +108,24 @@ jQuery(function ($) {
   for (var i = 0; i < len; i++) {
     links[i].target = "_blank";
   }
+});
+jQuery(function ($) {
+  $('.our-team .wp-social-link-chain').click(function (event) {
+    event.preventDefault();
+
+    if ($(this).parent().parent().hasClass('active_popup')) {
+      $(this).parent().parent().removeClass('active_popup');
+    } else {
+      $('.our-team .wp-social-link-chain').parent().parent().removeClass('active_popup');
+      $(this).parent().parent().addClass('active_popup');
+    }
+  });
+});
+jQuery(document).on('click', 'a[href^="#"]', function (event) {
+  event.preventDefault();
+  jQuery('html, body').animate({
+    scrollTop: jQuery(jQuery.attr(event.currentTarget, 'href')).offset().top - 125
+  }, 100);
 });
 
 /***/ }),
