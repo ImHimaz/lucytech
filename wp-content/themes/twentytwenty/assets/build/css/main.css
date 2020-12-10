@@ -7327,7 +7327,6 @@ h1 {
   font-weight: 700; }
 
 h2 {
-  font-family: "Inter", sans-serif !important;
   font-size: 38px;
   line-height: 48px;
   font-weight: 600; }
@@ -8247,7 +8246,7 @@ footer {
 
 @media (max-width: 991.98px) {
   .image-list .wp-bootstrap-blocks-row > div figure {
-    height: 400px; } }
+    height: auto; } }
 
 @media (max-width: 767.98px) {
   .image-list {
